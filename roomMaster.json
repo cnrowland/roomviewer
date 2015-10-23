@@ -1,7 +1,7 @@
 [
   {
     "Room_ID":"1",
-    "OldRoom":"Dali ",
+    "OldRoom":"Dali",
     "NewRoom":"Aberavon",
     "floor":"First Floor",
     "facilities":"Y",
@@ -17,7 +17,7 @@
   },
   {
     "Room_ID":"2",
-    "OldRoom":"Seurat ",
+    "OldRoom":"Seurat",
     "NewRoom":"Barmouth",
     "floor":"First Floor",
     "facilities":"N",
