@@ -97,7 +97,7 @@
   },
   {
     "Room_ID":"7",
-    "OldRoom":"Rodin ",
+    "OldRoom":"Rodin",
     "NewRoom":"Langland",
     "floor":"First Floor",
     "facilities":"Y",
@@ -129,7 +129,7 @@
   },
   {
     "Room_ID":"9",
-    "OldRoom":"Matisse ",
+    "OldRoom":"Matisse",
     "NewRoom":"Ogmore",
     "floor":"First Floor",
     "facilities":"Y",
