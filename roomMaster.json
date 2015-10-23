@@ -5,15 +5,15 @@
     "NewRoom":"Aberavon",
     "floor":"First Floor",
     "facilities":"Y",
-    "No_of_Seats":"4",
+    "NoSeats":"4",
     "PC":"1",
     "flipchart":"N",
-    "conference_phone":"N",
+    "conferencePhone":"N",
     "phone":"Y",
     "whiteboard":"N",
     "projector":"N",
-    "water_fountain":"N",
-    "No_of_projector_screens":"0"
+    "waterFountain":"N",
+    "NoOfProjectorScreens":"0"
   },
   {
     "Room_ID":"2",
@@ -21,15 +21,15 @@
     "NewRoom":"Barmouth",
     "floor":"First Floor",
     "facilities":"N",
-    "No_of_Seats":"4",
+    "NoSeats":"4",
     "PC":"0",
     "flipchart":"N",
-    "conference_phone":"N",
+    "conferencePhone":"N",
     "phone":"N",
     "whiteboard":"N",
     "projector":"N",
-    "water_fountain":"N",
-    "No_of_projector_screens":"0"
+    "waterFountain":"N",
+    "NoOfProjectorScreens":"0"
   },
   {
     "Room_ID":"3",
@@ -37,15 +37,15 @@
     "NewRoom":"Barafundle",
     "floor":"First Floor",
     "facilities":"Y",
-    "No_of_Seats":"10",
+    "NoSeats":"10",
     "PC":"0",
     "flipchart":"N",
-    "conference_phone":"Y",
+    "conferencePhone":"Y",
     "phone":"N",
     "whiteboard":"N",
     "projector":"N",
-    "water_fountain":"N",
-    "No_of_projector_screens":"0"
+    "waterFountain":"N",
+    "NoOfProjectorScreens":"0"
   },
   {
     "Room_ID":"4",
@@ -53,15 +53,15 @@
     "NewRoom":"Broadhaven",
     "floor":"First Floor",
     "facilities":"Y",
-    "No_of_Seats":"10",
+    "NoSeats":"10",
     "PC":"1",
     "flipchart":"Y",
-    "conference_phone":"Y",
+    "conferencePhone":"Y",
     "phone":"Y",
     "whiteboard":"Y",
     "projector":"Y",
-    "water_fountain":"N",
-    "No_of_projector_screens":"1"
+    "waterFountain":"N",
+    "NoOfProjectorScreens":"1"
   },
   {
     "Room_ID":"5",
@@ -69,15 +69,15 @@
     "NewRoom":"Caswell",
     "floor":"First Floor",
     "facilities":"Y",
-    "No_of_Seats":"4",
+    "NoSeats":"4",
     "PC":"0",
     "flipchart":"N",
-    "conference_phone":"N",
+    "conferencePhone":"N",
     "phone":"Y",
     "whiteboard":"Y",
     "projector":"N",
-    "water_fountain":"N",
-    "No_of_projector_screens":"0"
+    "waterFountain":"N",
+    "NoOfProjectorScreens":"0"
   },
   {
     "Room_ID":"6",
@@ -85,15 +85,15 @@
     "NewRoom":"Gower",
     "floor":"First Floor",
     "facilities":"Y",
-    "No_of_Seats":"4",
+    "NoSeats":"4",
     "PC":"0",
     "flipchart":"N",
-    "conference_phone":"N",
+    "conferencePhone":"N",
     "phone":"Y",
     "whiteboard":"N",
     "projector":"N",
-    "water_fountain":"N",
-    "No_of_projector_screens":"0"
+    "waterFountain":"N",
+    "NoOfProjectorScreens":"0"
   },
   {
     "Room_ID":"7",
@@ -101,15 +101,15 @@
     "NewRoom":"Langland",
     "floor":"First Floor",
     "facilities":"Y",
-    "No_of_Seats":"",
+    "NoSeats":"",
     "PC":"0",
     "flipchart":"N",
-    "conference_phone":"N",
+    "conferencePhone":"N",
     "phone":"N",
     "whiteboard":"N",
     "projector":"N",
-    "water_fountain":"N",
-    "No_of_projector_screens":"0"
+    "waterFountain":"N",
+    "NoOfProjectorScreens":"0"
   },
   {
     "Room_ID":"8",
@@ -117,15 +117,15 @@
     "NewRoom":"Newgale",
     "floor":"First Floor",
     "facilities":"Y",
-    "No_of_Seats":"6",
+    "NoSeats":"6",
     "PC":"1",
     "flipchart":"Y",
-    "conference_phone":"N",
+    "conferencePhone":"N",
     "phone":"Y",
     "whiteboard":"Y",
     "projector":"N",
-    "water_fountain":"N",
-    "No_of_projector_screens":"0"
+    "waterFountain":"N",
+    "NoOfProjectorScreens":"0"
   },
   {
     "Room_ID":"9",
@@ -133,15 +133,15 @@
     "NewRoom":"Ogmore",
     "floor":"First Floor",
     "facilities":"Y",
-    "No_of_Seats":"4",
+    "NoSeats":"4",
     "PC":"0",
     "flipchart":"N",
-    "conference_phone":"N",
+    "conferencePhone":"N",
     "phone":"N",
     "whiteboard":"Y",
     "projector":"N",
-    "water_fountain":"N",
-    "No_of_projector_screens":"0"
+    "waterFountain":"N",
+    "NoOfProjectorScreens":"0"
   },
   {
     "Room_ID":"10",
@@ -149,15 +149,15 @@
     "NewRoom":"Oxwich",
     "floor":"First Floor",
     "facilities":"Y",
-    "No_of_Seats":"4",
+    "NoSeats":"4",
     "PC":"1",
     "flipchart":"N",
-    "conference_phone":"N",
+    "conferencePhone":"N",
     "phone":"N",
     "whiteboard":"N",
     "projector":"N",
-    "water_fountain":"N",
-    "No_of_projector_screens":"0"
+    "waterFountain":"N",
+    "NoOfProjectorScreens":"0"
   },
   {
     "Room_ID":"11",
@@ -165,15 +165,15 @@
     "NewRoom":"Rhossili",
     "floor":"First Floor",
     "facilities":"Y",
-    "No_of_Seats":"17",
+    "NoSeats":"17",
     "PC":"10",
     "flipchart":"N",
-    "conference_phone":"N",
+    "conferencePhone":"N",
     "phone":"Y",
     "whiteboard":"Y",
     "projector":"Y",
-    "water_fountain":"N",
-    "No_of_projector_screens":"1"
+    "waterFountain":"N",
+    "NoOfProjectorScreens":"1"
   },
   {
     "Room_ID":"12",
@@ -181,15 +181,15 @@
     "NewRoom":"Tenby",
     "floor":"First Floor",
     "facilities":"Y",
-    "No_of_Seats":"17",
+    "NoSeats":"17",
     "PC":"1",
     "flipchart":"Y",
-    "conference_phone":"Y",
+    "conferencePhone":"Y",
     "phone":"Y",
     "whiteboard":"Y",
     "projector":"Y",
-    "water_fountain":"Y",
-    "No_of_projector_screens":"2"
+    "waterFountain":"Y",
+    "NoOfProjectorScreens":"2"
   },
   {
     "Room_ID":"13",
@@ -197,15 +197,15 @@
     "NewRoom":"Saundersfoot",
     "floor":"Ground Floor",
     "facilities":"Y",
-    "No_of_Seats":"6",
+    "NoSeats":"6",
     "PC":"1",
     "flipchart":"N",
-    "conference_phone":"y",
+    "conferencePhone":"y",
     "phone":"y",
     "whiteboard":"N",
     "projector":"N",
-    "water_fountain":"N",
-    "No_of_projector_screens":"0"
+    "waterFountain":"N",
+    "NoOfProjectorScreens":"0"
   },
   {
     "Room_ID":"14",
@@ -213,15 +213,15 @@
     "NewRoom":"Board Room",
     "floor":"Ground Floor",
     "facilities":"Y",
-    "No_of_Seats":"13",
+    "NoSeats":"13",
     "PC":"1",
     "flipchart":"y",
-    "conference_phone":"y",
+    "conferencePhone":"y",
     "phone":"y",
     "whiteboard":"y",
     "projector":"y",
-    "water_fountain":"y",
-    "No_of_projector_screens":"1"
+    "waterFountain":"y",
+    "NoOfProjectorScreens":"1"
   },
   {
     "Room_ID":"15",
@@ -229,14 +229,14 @@
     "NewRoom":"Whitesands",
     "floor":"Ground Floor",
     "facilities":"y",
-    "No_of_Seats":"17",
+    "NoSeats":"17",
     "PC":"1",
     "flipchart":"N",
-    "conference_phone":"y",
+    "conferencePhone":"y",
     "phone":"y",
     "whiteboard":"y",
     "projector":"y",
-    "water_fountain":"N",
-    "No_of_projector_screens":"1"
+    "waterFountain":"N",
+    "NoOfProjectorScreens":"1"
   }
 ]
